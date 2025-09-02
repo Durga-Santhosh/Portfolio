@@ -53,9 +53,9 @@ const Projects = () => {
       description: 'A personal portfolio website built with React and Tailwind CSS, showcasing projects with a modern and responsive design.',
       image: '/portfolio.jpg',
       technologies: ['ReactJs', 'Tailwind CSS'],
-      liveLink: '#',
-      githubLink: '#',
-      icon: Smartphone
+      liveLink: 'https://portfolio-1o7o.vercel.app/',
+      githubLink: 'https://github.com/Durga-Santhosh/Portfolio',
+      icon: Globe
     }
   ];
 
