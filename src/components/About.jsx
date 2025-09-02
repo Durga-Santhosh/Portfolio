@@ -20,7 +20,7 @@ const About = () => {
               </h3>
               
               <p className="text-gray-600 leading-relaxed">
-                I'm a recent computer science graduate with a strong passion for frontend development 
+                I'm pursuing computer science  with a strong passion for frontend development 
                 and user experience design. I believe in writing clean, efficient code and creating 
                 interfaces that are both beautiful and functional.
               </p>
